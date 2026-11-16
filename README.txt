@@ -1,4 +1,5 @@
-GA BATTLE SUPPORT DUEL v1.2
-横画面：設定ボタンを中央上、VPを戻すを中央中、時計停止・再開を中央下に配置。
-表示モード切替は設定内。VP・時計の状態はv1.1から継承。
-GitHub Pagesでは4ファイルをリポジトリのルートに上書きしてください。
+GA BATTLE SUPPORT DUEL v1.3
+横画面・VP/時計切替。時計が0になるとピピピッと3回鳴り、該当時計が赤く点滅します。
+設定でアラームをON/OFFできます。iPhoneでは最初に画面をタップして音声を有効化してください。
+GitHub Pagesへ index.html / sw.js / manifest.webmanifest を上書きしてください。
+更新確認: https://mikeko-22.github.io/GA-/?v=duel13
